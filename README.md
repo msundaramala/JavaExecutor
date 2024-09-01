@@ -1,2 +1,2 @@
 # JavaExecutor
-Java Executor practice  notes
+Java script Executor practice  notes
